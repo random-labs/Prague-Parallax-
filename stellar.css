@@ -1,0 +1,85 @@
+*{margin:0;padding:0;}
+
+body {
+    font-size: 40px;
+    color: white;
+    text-shadow: 0 1px 0 black, 0 0 5px black;
+    text-align:center;
+
+}
+p {
+  font-family:"ChunkFive Ex";
+  font-size:160px;
+    /*padding: 0 0.5em;*/
+   margin: 0;
+   padding-top:150px;
+  
+}
+
+/*h2 {
+  font-size:80px;
+  font-family:"Avenir";
+  text-align:center;
+  color:white;
+  z-index:3;
+}*/
+
+
+.content {
+    background-attachment: fixed;
+    height: 650px;
+}
+#content1 {
+    background-image: url("https://wallpaperscraft.com/image/prague_czech_republic_bridge_building_river_28518_1920x1080.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    
+}
+#content2 {
+   background-color:black;
+    background-repeat:no-repeat;
+    background-size:100%;
+    text-decoration: none !important;
+}
+
+ h2 {
+  font-size:20px;
+  font-family:"Avenir";
+  text-align:center;
+  color:white;
+  z-index:3;
+  width:900px;
+  margin:0 auto;
+  line-height: 40px;
+  text-decoration: none !important;
+}
+
+a p {
+  color:white;
+  text-decoration: none !important;
+}
+
+#content3 {
+    background-image: url("https://spea.indiana.edu/images/student-experience/overseas/ireland-main.jpg");
+     background-repeat:no-repeat;
+     background-size:100%;
+    
+}
+#content4 {
+    background-color:black;   
+    background-repeat:no-repeat;
+    background-size:100%;
+    
+}
+#content5 {
+    background-image: url("http://www.tropicalsnorkeling.com/images/BermudaBoilerReef.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+   
+}
+#content6 {
+    background-color:black;    
+    background-repeat:no-repeat;
+    background-size:100%;
+  
+}
