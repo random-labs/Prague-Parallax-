@@ -121,6 +121,7 @@ nav a:hover {
 #content2 p{
   font-family:"ChunkFive Ex";
   font-size:80px;
+  border-bottom-style: dotted;
 }
 
 /*#content2 h2{
@@ -134,11 +135,9 @@ nav a:hover {
   text-align:center;
   color:white;
   z-index:3;
-  /*width:900px;*/
+  width:900px;
   margin:0 auto;
-  line-height: 40px;
-  padding-left:2%;
-  padding-right:2%;
+  line-height: 60px;
   text-decoration: none !important;
 }
 
@@ -163,6 +162,7 @@ a p {
 #content4 p{
   font-family:"ChunkFive Ex";
   font-size:80px;
+  border-bottom-style: dotted;
 }
 
 #content4 h2{
@@ -209,6 +209,7 @@ a p {
   font-family:"ChunkFive Ex";
   font-size:80px;
   color:black;
+  border-bottom-style: dotted;
 }
 
 #content6 h2{
@@ -229,6 +230,7 @@ a p {
   font-family:"ChunkFive Ex";
   font-size:80px;
   color:yellow;
+  border-bottom-style: dotted;
 }
 
 #content7 h2{
@@ -257,6 +259,7 @@ a p {
   font-family:"ChunkFive Ex";
   font-size:80px;
   color:black;
+  border-bottom-style: dotted;
 }
 
 #content9 h2{
